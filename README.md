@@ -24,7 +24,7 @@ Baidu Netdisk   |  ✓ | x | ✓ | ✓ | ✓ | ✓ | ✓ |
 OneDrive   |  ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 - [ ] 中转器
-
+fork一份，修改 packages/sharelist-web , 之后打tag，push 到 github，github action 会自动构建出二进制版本。
 
 ## 安装
 ```docker
